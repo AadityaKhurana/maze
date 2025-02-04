@@ -2,7 +2,6 @@
 import random
 import pygame, sys
 from pygame.locals import *
-import sys
 
 order = ["up", "down", "right", "left"]
 row = col = int(sys.argv[1])
